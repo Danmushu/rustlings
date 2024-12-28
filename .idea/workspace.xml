@@ -9,49 +9,45 @@
   <component name="ChangeListManager">
     <list default="true" id="592deee2-3432-4eff-9333-7d8fe5946a6a" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors6.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/12_options/options3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors6.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:bench" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="yitov79f" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2qk8lLh5W5EBsIygpPNj3zvmGqy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,7 +56,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Cargo.Run arc1.executor": "Run",
+    "Cargo.Run traits4_sol.executor": "Run",
+    "Cargo.Run traits5.executor": "Run",
+    "Cargo.Run vecs1.executor": "Run",
     "Cargo.Test exercises.executor": "Run",
+    "Cargo.run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
@@ -71,10 +71,67 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run arc1">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cargo.run">
     <configuration name="Run arc1" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="buildProfileId" value="bench" />
       <option name="command" value="run --package exercises --bin arc1" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run traits4_sol" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package exercises --bin traits4_sol" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run traits5" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package exercises --bin traits5" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run vecs1" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package exercises --bin vecs1" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -108,6 +165,31 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.run" />
+        <item itemvalue="Cargo.Run traits4_sol" />
+        <item itemvalue="Cargo.Run traits5" />
+        <item itemvalue="Cargo.Run vecs1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -121,6 +203,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735195363852</updated>
       <workItem from="1735195365134" duration="109000" />
+      <workItem from="1735291051382" duration="46000" />
     </task>
     <servers />
   </component>
